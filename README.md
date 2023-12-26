@@ -23,8 +23,9 @@
 [![Ms Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=0078D6)]()
 </br>
 
+<h3 align="left">Stars</h3>
 <a href="https://github.com/FernanApps/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-kappa-liard-38.vercel.app/api/top-langs/?username=FernanApps&layout=compact" />
+  <img align="center" src="https://github-readme-stats-kappa-liard-38.vercel.app/api/top-langs/?username=FernanApps&show_icons=true&locale=en&theme=dark" />
 </a>
 <br>
 
