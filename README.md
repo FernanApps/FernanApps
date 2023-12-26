@@ -1,4 +1,7 @@
-- 👋 Hola, soy @FernanApps
+<h1 align="center">Hola 👋, soy Luis Fernando</h1>
+<h3 align="center">Android Developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=FernanApps&label=Profile%20views&color=0e75b6&style=flat" alt="FernanApps" /> </p>
+
 - 👀 Estoy interesado en Desarrollar en diferentes plataformas e idiomas.
 - 🌱 Actualmente estoy aprendiendo Kotlin, Java,... porque siempre necesitamos aprender ;)
 - 📫 How to reach me ...
