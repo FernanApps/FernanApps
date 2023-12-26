@@ -24,11 +24,6 @@
 </br>
 
 <h3 align="left">Stars</h3>
-<a href="https://github.com/FernanApps/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-kappa-liard-38.vercel.app/api/top-langs/?username=FernanApps&show_icons=true&locale=en&theme=dark" />
-</a>
-<br>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=FernanApps&show_icons=true&locale=en&theme=dark" alt="FernanApps" /></p>
 
-<a href="https://github.com/FernanApps">
-  <img align="center" src="https://github-readme-stats-kappa-liard-38.vercel.app/api?username=FernanApps&hide=contribs&show_icons=true&include_all_commits=true&count_private=true" />
-</a>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=FernanApps&theme=dark" alt="FernanApps" /></p>
