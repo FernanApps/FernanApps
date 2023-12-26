@@ -25,7 +25,7 @@
 
 <h3 align="left">Stars</h3>
 <a href="https://github.com/FernanApps/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-kappa-liard-38.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=dark#gh-dark-mode-only" />
+  <img align="center" src="https://github-readme-stats-kappa-liard-38.vercel.app/api?username=FernanApps\&show_icons=true\&theme=dark#gh-dark-mode-only" />
 </a>
 <br>
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=FernanApps&theme=dark" alt="FernanApps" /></p>
