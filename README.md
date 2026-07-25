@@ -11,15 +11,6 @@
   <a href="https://fernanapps.dev">
     <img src="https://img.shields.io/badge/Portfolio-fernanapps.dev-C6FD0E?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/fernanapps">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:luisfernandohuamanv@gmail.com">
-    <img src="https://img.shields.io/badge/Email-C6FD0E?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
-  </a>
-  <a href="https://play.google.com/store/apps/developer?id=FernanApps">
-    <img src="https://img.shields.io/badge/Play%20Store-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Play Store" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=FernanApps&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views" />
 </p>
 
