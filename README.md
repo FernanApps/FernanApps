@@ -11,6 +11,9 @@
   <a href="https://fernanapps.dev">
     <img src="https://img.shields.io/badge/Portfolio-fernanapps.dev-C6FD0E?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
   </a>
+  <a href="https://buymeacoffee.com/FernanApps">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=FernanApps&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views" />
 </p>
 
@@ -67,6 +70,18 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=FernanApps&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=C6FD0E&icon_color=C6FD0E" alt="stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernanApps&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=C6FD0E" alt="top languages" />
 </div>
+
+---
+
+### ☕ Apóyame
+
+Publico mis proyectos y herramientas **MCP de forma abierta**. Si algo de lo que comparto te resultó útil, puedes invitarme un café:
+
+<p align="center">
+  <a href="https://buymeacoffee.com/FernanApps" target="_blank" rel="noopener">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="50" width="210" />
+  </a>
+</p>
 
 ---
 
