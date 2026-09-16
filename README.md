@@ -60,7 +60,7 @@
 | --- | --- | --- |
 | **[mcp-database-server](https://github.com/FernanApps/mcp-database-server)** `fork extendido` | ~25 herramientas propias para SQL Server: gestión de procedures, functions y views + sistema de backup/restore con versionado y diff. | `TypeScript` `MCP` `SQL Server` |
 | **[httptoolkit-mcp](https://github.com/FernanApps/httptoolkit-mcp)** `desde cero` | MCP server que lee en tiempo real el tráfico HTTP de HTTP Toolkit; requirió parchear la UI con middleware en el webpack dev-server. | `Node.js` `MCP` |
-| **[Apps Android](https://play.google.com/store/apps/developer?id=FernanApps)** `Play Store` | Apps publicadas para clientes de Perú, Colombia y México: streaming, e-commerce y utilidades. | `Kotlin` `Compose` `Room` |
+| **[FX-Tmdb-Clone](https://github.com/FernanApps/FX-Tmdb-Clone---Compose-Multiplatform)** `Compose Multiplatform` | Clon de TMDB en Kotlin Multiplatform (Android, iOS, Web y Desktop) con preview web desplegado. | `Kotlin` `Compose Multiplatform` `KMP` |
 
 ---
 
